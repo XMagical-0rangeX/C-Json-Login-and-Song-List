@@ -1,0 +1,30 @@
+F:\__CS\C#\c#-save-to-json-file\bin\Debug\net6.0\c#-save-to-json-file.exe
+F:\__CS\C#\c#-save-to-json-file\bin\Debug\net6.0\c#-save-to-json-file.deps.json
+F:\__CS\C#\c#-save-to-json-file\bin\Debug\net6.0\c#-save-to-json-file.runtimeconfig.json
+F:\__CS\C#\c#-save-to-json-file\bin\Debug\net6.0\c#-save-to-json-file.dll
+F:\__CS\C#\c#-save-to-json-file\bin\Debug\net6.0\c#-save-to-json-file.pdb
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.csproj.AssemblyReference.cache
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.GeneratedMSBuildEditorConfig.editorconfig
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.AssemblyInfoInputs.cache
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.AssemblyInfo.cs
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.csproj.CoreCompileInputs.cache
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.dll
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\refint\c#-save-to-json-file.dll
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.pdb
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\c#-save-to-json-file.genruntimeconfig.cache
+F:\__CS\C#\c#-save-to-json-file\obj\Debug\net6.0\ref\c#-save-to-json-file.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.csproj.AssemblyReference.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.AssemblyInfoInputs.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.AssemblyInfo.cs
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.csproj.CoreCompileInputs.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\refint\c#-save-to-json-file.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.pdb
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\bin\Debug\net6.0\c#-save-to-json-file.exe
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\bin\Debug\net6.0\c#-save-to-json-file.deps.json
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\bin\Debug\net6.0\c#-save-to-json-file.runtimeconfig.json
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\bin\Debug\net6.0\c#-save-to-json-file.dll
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\bin\Debug\net6.0\c#-save-to-json-file.pdb
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\c#-save-to-json-file.genruntimeconfig.cache
+C:\Users\a.fraess\Desktop\New folder\c#\proj\json\json proj\obj\Debug\net6.0\ref\c#-save-to-json-file.dll
